@@ -26,9 +26,9 @@ if(strstr($_SERVER['SERVER_NAME'],'digital-humanities-capstone-project.local')){
 	define( 'DB_HOST', 'localhost' );
 }
 else{
-	define( 'DB_NAME', 'theprjt1_imported_theme' );
-	define( 'DB_USER', 'theprjt1_WP7MZ' );
-	define( 'DB_PASSWORD', '8NjgSDXQaCf5T9x' );
+	define( 'DB_NAME', 'theprjt1_digial-critical-edition-theme' );
+	define( 'DB_USER', 'theprjt1_WP7MZ ' );
+	define( 'DB_PASSWORD', 'bF8QLw7VB7trrtP' );
 	define( 'DB_HOST', 'localhost' );
 }
 
