@@ -1,3 +1,3 @@
 [submodule "digital-critical-edition"]
-	path = digital-critical-edition
+	path = wp-content/themes/digital-critical-edition
 	url = https://github.com/Eliora-Horst/digital-critical-edition
